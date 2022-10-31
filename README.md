@@ -4,4 +4,5 @@ Projeto com intuito de realizar um clone na pagina inicial da Netflix. Foi a pri
 - Consumo de requisições do tipo GET. 
 - Design Responsível, e pego como fonte o site da Netflix.
 
+<strong>Link do site para visualização dinamica: https://netflix-clone-app-jhonnyo3.netlify.app/</strong>
 
